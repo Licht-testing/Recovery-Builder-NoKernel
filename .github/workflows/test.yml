@@ -14,7 +14,7 @@ on:
     types: [started]
 
 env:
-  MANIFEST: git@gitlab.com:OrangeFox/Manifest.git -b fox_9.0
+  MANIFEST: git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-9.0
   DEVICE: pokerpatas
   DT_LINK: https://github.com/KatoTempest/motorola_pokerpatas
   DT_PATH: device/motorola/pokerpatas
