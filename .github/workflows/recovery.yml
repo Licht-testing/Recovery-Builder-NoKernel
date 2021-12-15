@@ -16,9 +16,9 @@ on:
 env:
   MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
   MANIFEST_BRANCH: fox_9.0
-  DEVICE: rosy
-  DT_LINK: https://github.com/ElytrA8/recovery_rosy
-  DT_PATH: device/xiaomi/rosy
+  DEVICE: pokerpatas
+  DT_LINK: https://github.com/KatoTempest/motorola_pokerpatas
+  DT_PATH: device/motorola/pokerpatas
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
