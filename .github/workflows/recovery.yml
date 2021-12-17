@@ -14,10 +14,10 @@ on:
     types: [started]
 
 env:
-  MANIFEST: git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git
-  MANIFEST_BRANCH: twrp-9.0
+  MANIFEST: git://gitlab.com/OrangeFox/Manifest.gi
+  MANIFEST_BRANCH: fox_9.0
   DEVICE: pokerpatas
-  DT_LINK: https://github.com/KatoTempest/motorola_pokerpatas -b wip
+  DT_LINK: https://github.com/KatoTempest/motorola_pokerpatas -b ofox
   DT_PATH: device/motorola/pokerpatas
   TARGET: recoveryimage
   TZ: Asia/Kolkata
