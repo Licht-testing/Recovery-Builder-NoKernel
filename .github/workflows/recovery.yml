@@ -14,7 +14,7 @@ on:
     types: [started]
 
 env:
-  MANIFEST: git://gitlab.com/OrangeFox/Manifest.gi
+  MANIFEST: git://gitlab.com/OrangeFox/Manifest.git
   MANIFEST_BRANCH: fox_9.0
   DEVICE: pokerpatas
   DT_LINK: https://github.com/KatoTempest/motorola_pokerpatas -b ofox
