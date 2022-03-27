@@ -17,7 +17,7 @@ env:
   MANIFEST: git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git
   MANIFEST_BRANCH: twrp-9.0
   DEVICE: pokerp
-  DT_LINK: https://github.com/KatoTempest/motorola_pokerp
+  DT_LINK: https://github.com/KatoTempest/motorola_pokerp -b android-9.0
   DT_PATH: device/motorola/pokerp
   TARGET: recoveryimage
   TZ: Asia/Kolkata
