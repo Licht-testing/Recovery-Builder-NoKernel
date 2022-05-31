@@ -16,9 +16,9 @@ on:
 env:
   MANIFEST: git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git
   MANIFEST_BRANCH: twrp-9.0
-  DEVICE: a30
-  DT_LINK: https://github.com/KatoTempest/android_device_samsung_a30.git
-  DT_PATH: device/samsung/a30
+  DEVICE: pokerp
+  DT_LINK: https://github.com/KatoTempest/motorola_pokerp.git -b stable
+  DT_PATH: device/motorola/pokerp
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
