@@ -15,10 +15,10 @@ on:
 
 env:
   MANIFEST: git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git
-  MANIFEST_BRANCH: twrp-7.1
+  MANIFEST_BRANCH: twrp-11
   DEVICE: nicklaus
-  DT_LINK: https://github.com/KatoTempest/android_device_motorola_nicklaus
-  DT_PATH: device/motorola/nicklaus
+  DT_LINK: https://github.com/KatoTempest/a037-a03s-TWRP-11-dt.git
+  DT_PATH: device/samsung/a03s
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
